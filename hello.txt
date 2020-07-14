@@ -1,2 +1,4 @@
 hello world!
 new text added in the new-branch
+
+This line is being added by user2
